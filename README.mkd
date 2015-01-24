@@ -1,1 +1,3 @@
-# Issues for using XPS13-2015 with Xubunth
+# Issues for [XPS13-2015](http://www.dell.com/jp/p/xps-13-9333/pd)
+
+Mainly using with [Xubuntu](http://xubuntu.org/)
