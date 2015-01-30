@@ -1,4 +1,4 @@
 # Issues for XPS13-2015
 
-[DELL XPS 13 (9343) Early 2015](http://www.dell.com/jp/p/xps-13-9343-laptop/pd)
+[DELL XPS 13 (9343) Early 2015](http://www.dell.com/jp/p/xps-13-9343-laptop/pd)  
 Mainly using with [Xubuntu](http://xubuntu.org/)
