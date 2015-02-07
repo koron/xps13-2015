@@ -3,7 +3,11 @@
 [DELL XPS 13 (9343) Early 2015](http://www.dell.com/jp/p/xps-13-9343-laptop/pd)  
 Mainly using with [Xubuntu](http://xubuntu.org/)
 
-## External issues
+## External Articles
+
+* [Linux support for the Dell XPS 13 9343 (2015 model)](https://major.io/2015/02/03/linux-support-dell-xps-13-9343-2015-model/)
+
+## External Issues
 
 * [Audio broken on 2015 XPS 13 (9343) in I2S mode](https://bugs.launchpad.net/ubuntu/+source/linux/+bug/1413446)
 * [Dell XPS 13 2015 model 9343 on Ubuntu 15.04, dmidecode, lsusb, lspci](https://gist.github.com/semenko/60015029e13c1de65ff6)
